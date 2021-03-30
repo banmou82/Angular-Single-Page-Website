@@ -5,6 +5,15 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
+
 export class AppComponent {
-  title = 'project1';
+  title = 'Single Page Project';
+  // public root_path = "../../assets/images/";
 }
+
+/**
+ * name
+ */
+// public root_path() {
+//         return "../assets/images/;"
+// }
